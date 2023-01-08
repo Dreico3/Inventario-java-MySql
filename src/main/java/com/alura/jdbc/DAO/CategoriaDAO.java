@@ -17,6 +17,7 @@ public class CategoriaDAO {
 
 	public List<Categoria> listar() {
 		// TODO Auto-generated method stub
+		System.out.println("esto solo es una prueva para el commit git");
 		List<Categoria> resultado = new ArrayList<>();
 		try {
 			System.out.println("select * from categoria locaso");
